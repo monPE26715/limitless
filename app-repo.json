@@ -11,7 +11,14 @@
       "localizedDescription": "A client mod for Discord",
       "subtitle": "A client mod for Discord",
       "tintColor": "aa454d",
-      "versions": []
+      "versions": [
+        {
+          "version": "267.1",
+          "date": "2025-02-23",
+          "size": 93508284,
+          "downloadURL": "https://github.com/monPE26715/limitless/releases/download/v267.1/Unbound.ipa"
+        }
+      ]
     },
     {
       "name": "Unbound (TestFlight)",
@@ -22,6 +29,6 @@
       "subtitle": "A client mod for Discord (TestFlight builds)",
       "tintColor": "aa454d",
       "versions": []
-	}
+    }
   ]
 }
